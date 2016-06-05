@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 2015 GG </div>
+                <div class="title">Laravel 2015 GG IZI </div>
             </div>
         </div>
     </body>
