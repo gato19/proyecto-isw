@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Larave </div>
+                <div class="title">Laravel 2015 </div>
             </div>
         </div>
     </body>
